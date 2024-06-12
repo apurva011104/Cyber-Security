@@ -43,6 +43,16 @@
 - **Integrity:** Ensure that data is maintained properly and nobody should be able to modify in some way that is not intended.
 - **Availability:** Authorized user should be able to access information or system whenever and however they need.
 
+## Penetration Testing
+- Penetration testing, also known as pen testing, is a security exercise where a cyber-security expert attempts to find and exploit vulnerabilities in a computer system.
+- The purpose of this simulated attack is to identify any weak spots in a system’s defenses which attackers could take advantage of.
+- **Types of Penetration Testing**
+  1. **Black Box Testing:** Testers have no prior knowledge of the system.
+  2. **White Box Testing:** Testers have full knowledge of the system’s architecture and source code.
+  3. **Gray Box Testing:** Testers have some knowledge of the system.
+  4. **External Testing:** Testers focuses on the external-facing aspects of the system, such as web applications, servers, and network infrastructure.
+  5. **Internal Testing:**  This is conducted within the organization's network, simulating an insider threat.
+
 ## Cybersecurity Ethics, Principles and Best Practices
 - #### **Ethics:**
   - Cybersecurity ethics involve principles and guidelines that govern the behavior of individuals and organizations in the field of cybersecurity.
