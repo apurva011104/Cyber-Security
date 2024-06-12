@@ -29,6 +29,12 @@
   1. **Black hat hackers:** Hackers who engage in hacking with malicious intent. Their actions are typically illegal and unethical.
   2. **White hat hackers:** Hackers who use their hacking skills for good and with ethical intentions. These hackers are also known as ethical hackers.
   3. **Grey hat hackers:** These hackers are somewhere in between white and black hat hackers. They may have mixed motivations, and their actions can be morally ambiguous.
+- ### Phases Of Hacking
+  1. **Reconnaissance (Information Gathering):** In this phase, hackers gather information about the target.
+  2. **Scanning:** In this phase, hackers use various tools and techniques to actively scan the target network to identify potential entry points into the system.
+  3. **Gaining Access (Exploitation):** Once vulnerabilities are identified, hackers attempt to exploit them to gain unauthorized access to the target system.
+  4. **Maintaining Access:** After successfully gaining access, hackers aim to maintain a persistent presence in the system.
+  5. **Covering Tracks:** Once the hacker gains access, they cover their tracks to escape the security personnel.
 
 ## CIA Triad
 - CIA stands for Confidentiality, Integrity, and Availability.
