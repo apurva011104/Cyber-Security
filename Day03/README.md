@@ -29,4 +29,36 @@ Windows permissions are categorized into two main types:
 - It is introduced by Microsoft to protect the local users with elevated privileges.
 - It prompts users for permission or an administrator password before allowing applications to make changes that could affect the system or other users.
 - It does not apply for built-in local admin account.
-- 
+
+## Windows Firewall and Windows Defender
+### Windows Firewall
+- It is a built-in network security system that monitors and controls incoming and outgoing network traffic based on predetermined security rules.
+- Its primary goal is to protect the computer from unauthorized access and network-based threats.
+### Windows Defender
+- It is a built-in antivirus and anti-malware program that provides real-time protection against various types of threats, including viruses, spyware, and ransomware.
+
+## Windows Remote Management and Remote Desktop Prototcol
+### Windows Remote Management (WinRM)
+It is a command-line tool that enables administrators to remotely execute commands, manage configurations, and access system information on Windows machines.
+### Remote Desktop Protocol (RDP)
+It is a proprietary protocol developed by Microsoft that allows users to connect to and control a remote Windows computer through a graphical user interface (GUI).
+
+## Basic Commands
+- **dir :**  Lists the contents of a directory.
+- **cd :**  Change directory.
+- **mkdir :**  Create a new directory.
+- **rmdir :**  Remove a directory.
+- **move :**  Move a file from one location to another.
+- **copy :**  Copy a file from one location to another.
+- **ipconfig :**  Displays network configuration details.
+- **systeminfo :**  Provides detailed information about the system.
+- **net :**  Used to manage network resources.
+- **attrib :**  Changes file attributes
+- **ping :**  Tests network connectivity to a specific IP address or hostname.
+- **tracert :**  Traces the route taken by packets to reach a network host.
+- **netstat :**  Displays active network connections and listening ports.
+
+## Batch Scripting
+-  It allows you to automate tasks by writing scripts that execute a sequence of commands.
+-  These are plain text files with a **.bat** or **.cmd** extension.
+-  To create a batch file, write commands in a text file and save it with a .bat extension.
