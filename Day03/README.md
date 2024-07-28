@@ -59,6 +59,22 @@ It is a proprietary protocol developed by Microsoft that allows users to connect
 - **netstat :**  Displays active network connections and listening ports.
 
 ## Batch Scripting
--  It allows you to automate tasks by writing scripts that execute a sequence of commands.
--  These are plain text files with a **.bat** or **.cmd** extension.
--  To create a batch file, write commands in a text file and save it with a .bat extension.
+- It allows you to automate tasks by writing scripts that execute a sequence of commands.
+- These are plain text files with a **.bat** or **.cmd** extension.
+- To create a batch file, write commands in a text file and save it with a .bat extension.
+
+## Introduction To Powershell
+- It is a task automation and configuration management framework from Microsoft, consisting of a command-line shell and the associated scripting language.
+- It is both a shell and a scripting language that enables administrators to perform a wide variety of tasks, from basic file management to complex scripting for system configuration
+
+## Using CMD and PowerShell for System Administration and Basic Security Tasks
+### System Administration
+- User account management
+- File directory mangement
+- System configuration
+### Basic Security Tasks
+- Configure Firewall rules
+- Check for installed updates
+- Check open ports
+- Check user account stats
+- Run security updates
